@@ -7,6 +7,7 @@ from pyquery import PyQuery
 
 
 def get_fw_keys_page(device: str, build: str) -> str:
+    print("get_fw_keys_page")
     """Return the URL of theiphonewiki to parse."""
     wiki = https://theapplewiki.com/wiki/
     data = {"search": build + " " + device}
