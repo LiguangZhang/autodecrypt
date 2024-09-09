@@ -5,8 +5,8 @@ description = "Tool to decrypt iOS firmware images"
 authors = ["matteyeux"]
 license = "MIT"
 readme = "README.md"
-homepage = "https://github.com/matteyeux/autodecrypt"
-repository = "https://github.com/matteyeux/autodecrypt"
+homepage = "https://github.com/LiguangZhang/autodecrypt"
+repository = "https://github.com/LiguangZhang/autodecrypt"
 keywords = ['autodecrypt', 'iOS', 'iBoot', 'checkm8']
 classifiers=[
 	'Development Status :: 5 - Production/Stable',
