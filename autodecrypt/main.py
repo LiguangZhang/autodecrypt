@@ -18,7 +18,7 @@ traceback.install()
 def main(
     file: str = typer.Option(
         ...,
-        "--filename",
+        "--filenames",
         "-f",
         help="File",
     ),
